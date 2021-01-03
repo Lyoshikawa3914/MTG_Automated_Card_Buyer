@@ -10,7 +10,6 @@ What the bot will do:
     take you to cardkingdom to buy the cards
     add cards from the deck to shopping card based on price
 
-    incoporate binary search algorimth
 
 """
 from selenium import webdriver
